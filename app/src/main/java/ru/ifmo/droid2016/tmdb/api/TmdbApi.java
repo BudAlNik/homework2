@@ -15,7 +15,7 @@ import java.net.URL;
 public final class TmdbApi {
 
     // TODO: Зарегистрироваться на https://www.themoviedb.org и получить свой собственный ключ
-    private static final String API_KEY = "660d4850bdd34a100346f0ae74654b41";
+    private static final String API_KEY = "5476d7d484b6f080a6598ce67c7d5294";
 
     private static final Uri BASE_URI = Uri.parse("https://api.themoviedb.org/3");
 
